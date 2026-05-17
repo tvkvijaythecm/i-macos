@@ -13,8 +13,7 @@ const terminal: TerminalData[] = [
         content: (
           <div className="py-1">
             <div>
-              Hi, this is Xiaohan Zou. I am a PhD student at the Computer Science and
-              Engineering department of Pennsylvania State University.
+              Hi, this is Suresh Kaleyannan. I am a Web Developer specializing in building responsive, user-friendly websites and modern web applications using the latest technologies.
             </div>
           </div>
         )
@@ -23,15 +22,15 @@ const terminal: TerminalData[] = [
         id: "about-interests",
         title: "interests.txt",
         type: "file",
-        content: "Machine Learning / Computer Vision / Multimodal Learning"
+        content: "Web Development / Graphic Designing  / Multimodal Learning"
       },
-      {
-        id: "about-who-cares",
-        title: "who-cares.txt",
-        type: "file",
-        content:
-          "I'm looking for a research internship for Summer 2024. I'm open to collaboration on research projects."
-      },
+{
+  id: "about-who-cares",
+  title: "who-cares.txt",
+  type: "file",
+  content:
+    "I'm passionate about Web Development and Graphic Design, creating modern websites and visually engaging digital experiences. Open to creative collaborations and freelance opportunities."
+},
       {
         id: "about-contact",
         title: "contact.txt",
@@ -42,22 +41,22 @@ const terminal: TerminalData[] = [
               Email:{" "}
               <a
                 className="text-blue-300"
-                href="mailto:renovamenzxh@gmail.com"
+                href="mailto:hello@suresh.app"
                 target="_blank"
                 rel="noreferrer"
               >
-                renovamenzxh@gmail.com
+                hello@suresh.app
               </a>
             </li>
             <li>
               Github:{" "}
               <a
                 className="text-blue-300"
-                href="https://github.com/Renovamen"
+                href="https://github.com/sureshapps"
                 target="_blank"
                 rel="noreferrer"
               >
-                @Renovamen
+                @sureshapps
               </a>
             </li>
             <li>
@@ -71,25 +70,25 @@ const terminal: TerminalData[] = [
               </a>
             </li>
             <li>
-              Linkedin:{" "}
+              Instagram:{" "}
               <a
                 className="text-blue-300"
-                href="https://www.linkedin.com/in/xiaohan-zou"
+                href="https://instagram.com/sureshksmy"
                 target="_blank"
                 rel="noreferrer"
               >
-                xiaohan-zou
+                sureshksmy
               </a>
             </li>
             <li>
               Personal Website:{" "}
               <a
                 className="text-blue-300"
-                href="https://zxh.me"
+                href="https://suresh.app"
                 target="_blank"
                 rel="noreferrer"
               >
-                https://zxh.me
+                https://suresh.app
               </a>
             </li>
             <li>
